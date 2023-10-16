@@ -1,0 +1,47 @@
+body {
+    color: rgb(234, 189, 112);
+    background-color: rgb(76, 88, 140);
+    font-size: 28px;
+}
+
+H1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1.4em;
+}
+
+h3{font-size: 1.4em;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+ul {
+    list-style-type:square;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+a{
+    text-decoration:dotted;
+}
+
+p {
+    text-align: left;
+}
+
+em{
+    font-weight: bold;
+    font-style: normal;
+}
+
+strong{
+    font-weight: normal;
+    font-style: italic;
+}
